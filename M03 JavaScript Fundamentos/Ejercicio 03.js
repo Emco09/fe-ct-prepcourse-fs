@@ -19,14 +19,14 @@ function menosQueNoventa(num) {
    // Retorna True si el argumento "num" es menor que noventa.
    // De lo contrario, retorna False.
    // Tu código:
-   return num < 90
+   return num < 90;
 }
 
 function mayorQueCincuenta(num) {
    // Retorna True si el argumento "num" es mayor que cincuenta.
    // De lo contrario, retorna False.
    // Tu código:
-   return num > 50
+   return num > 50;
 }
 
 

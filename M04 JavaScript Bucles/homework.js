@@ -5,11 +5,9 @@ function obtenerMayor(x, y) {
    // Retornar el número más grande.
    // Si son iguales, retornar cualquiera de los dos.
    // Tu código:
-   if (x > y ){
-      return x;
-   }
-   else (x === y)
-   return y;
+   return Math.max (x, y)
+   
+
 }
 
 
@@ -180,6 +178,7 @@ function esPrimo(num) {
       if (num % i === 0)return false;
    }
    return true 
+   
 }
 
 function esVerdadero(valor) {
